@@ -34,7 +34,7 @@
 ---
 
 ## 📫 Onde me encontrar
-- 🌐 [LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
+- 🌐 [LinkedIn](https:)  
 - ✉️ Email: seuemail@email.com  
 - 📂 Confira meus repositórios aqui no GitHub!  
 
