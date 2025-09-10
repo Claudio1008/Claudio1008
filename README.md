@@ -26,8 +26,8 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-![Claudio GitHub Stats](https://github-readme-stats.vercel.app/api?username=claudiogabriel&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiogabriel&layout=compact&theme=radical)  
+![Claudio GitHub Stats](https://github-readme-stats.vercel.app/api?username=Claudio1008&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio1008&layout=compact&theme=radical)  
 
 </div>
 
